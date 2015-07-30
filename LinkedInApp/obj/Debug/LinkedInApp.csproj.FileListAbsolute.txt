@@ -1,0 +1,11 @@
+G:\projects\LinkedInApp\LinkedInApp\bin\Debug\LinkedInApp.exe.config
+G:\projects\LinkedInApp\LinkedInApp\bin\Debug\LinkedInApp.exe
+G:\projects\LinkedInApp\LinkedInApp\bin\Debug\LinkedInApp.pdb
+G:\projects\LinkedInApp\LinkedInApp\bin\Debug\Newtonsoft.Json.dll
+G:\projects\LinkedInApp\LinkedInApp\bin\Debug\Sparkle.LinkedInNET.dll
+G:\projects\LinkedInApp\LinkedInApp\bin\Debug\Newtonsoft.Json.xml
+G:\projects\LinkedInApp\LinkedInApp\bin\Debug\Sparkle.LinkedInNET.pdb
+G:\projects\LinkedInApp\LinkedInApp\bin\Debug\Sparkle.LinkedInNET.xml
+G:\projects\LinkedInApp\LinkedInApp\obj\Debug\LinkedInApp.csprojResolveAssemblyReference.cache
+G:\projects\LinkedInApp\LinkedInApp\obj\Debug\LinkedInApp.exe
+G:\projects\LinkedInApp\LinkedInApp\obj\Debug\LinkedInApp.pdb
